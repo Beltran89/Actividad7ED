@@ -14,7 +14,7 @@ public int suma() {
 }
 
 public int multiplica() {
-	int resul = num1 * num2;
+	int resul = num1 * num2 * num1;
 	return resul;
 	
 }
