@@ -23,7 +23,7 @@ public int multiplica() {
 	
 }
 public int divide() {
-	int resul = num1 / num2;
+	int resul = num1 / num2*num1;
 	return resul;
 	
 }
