@@ -12,6 +12,10 @@ public int suma() {
 	return resul;
 	
 }
+public int megaOperacion() {
+	int resul = num1 + (num2 * num1) + num2 / num1;
+	return resul;
+}
 
 public int multiplica() {
 	int resul = num1 * num2 * num1;
